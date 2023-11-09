@@ -1,0 +1,13 @@
+#nav {
+    padding-top: 0;
+    padding-bottom: 0;
+}
+a {
+    font-size: 12px;
+    margin-left: 15px;
+}
+
+
+.navbar-toggler {
+    padding:3px 2px !important;
+  }
