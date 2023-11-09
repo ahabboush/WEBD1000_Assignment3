@@ -11,3 +11,37 @@ a {
 .navbar-toggler {
     padding:3px 2px !important;
   }
+
+  
+.card {
+    background-color: #fafafa;
+    height: 75vh;
+    overflow: hidden;
+    padding-bottom: 40px;
+    border: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.card-body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.card-text {
+    text-align: center;
+    font-size: 1.2rem;
+    font-weight:500;
+}
+
+.card-body a {
+    font-size: 1.1rem;
+}
+
+.row {
+    margin-top: 2%;
+}
